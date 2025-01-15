@@ -13,7 +13,7 @@
 <p align="center">
 <img 
     src="./assets/ebook_capa.jpg"
-    width="400"  
+    width="200"  
 />
 </p>
 
