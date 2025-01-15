@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/ebook_capa.png"
+    src="./assets/ebook_capa.jpg"
     width="400"  
 />
 </p>
